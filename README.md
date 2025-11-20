@@ -24,10 +24,10 @@ Unlike the standard Python `random` library (which is pseudo-random and predicta
 
 ### Key Features
 
-* **🛡️ Cryptographically Secure:** Built on the `secrets` module for unpredictability.
-* **⚙️ Highly Customizable:** Define exact length, toggle numbers, and include special symbols.
-* **🚀 CLI Focused:** Fast execution via terminal arguments, perfect for piping into other tools.
-* **🐧 Cross-Platform:** Works seamlessly on Linux, macOS, and Windows.
+  **Cryptographically Secure:** Built on the `secrets` module for unpredictability.
+  **Highly Customizable:** Define exact length, toggle numbers, and include special symbols.
+  **CLI Focused:** Fast execution via terminal arguments, perfect for piping into other tools.
+  **Cross-Platform:** Works seamlessly on Linux, macOS, and Windows.
 
 ---
 
