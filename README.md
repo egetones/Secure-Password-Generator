@@ -10,7 +10,7 @@
   <strong>Generates cryptographically strong passwords directly from your terminal.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/secure-pass-gen/issues) · [Request Feature](https://github.com/your-username/secure-pass-gen/issues)
+[Report Bug](https://github.com/egetones/secure-pass-gen/issues) · [Request Feature](https://github.com/egetones/secure-pass-gen/issues)
 
 </div>
 
